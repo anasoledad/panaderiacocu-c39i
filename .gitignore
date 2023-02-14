@@ -1,1 +1,4 @@
+# omitir el directorio y todo su contenido
+/.vscode
+# omitir todo lo que continua a la carpeta .vscode
 .vscode/*
